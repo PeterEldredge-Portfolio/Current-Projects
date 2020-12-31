@@ -18,7 +18,7 @@ to share.
 
 ### Project Rain: https://www.youtube.com/watch?v=n6aMEEaj5v8&feature=youtu.be
 
-### The Silence of Ember County Prototype: 
+### The Silence of Ember County Demo - Full Playthrough: https://youtu.be/ybln-oeZ10g 
 
 Many of the art assets used in the game came from purchased asset packs, as well as things like post processig affects and volumetric lighting. In
 the gameplay and implementation of the systems and effects have been done almost entirely by me, including some additional tools such as one to help
