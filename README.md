@@ -16,9 +16,9 @@ helped me understand the process of making games a truly wholistic sense, and I'
 As mentioned, it was built off the back of several projects that were cancelled for a variety of reasons. I have a few video demos of those projects
 to share.
 
-### Project Rain: https://www.youtube.com/watch?v=n6aMEEaj5v8&feature=youtu.be
-
 ### The Silence of Ember County Demo - Full Playthrough: https://youtu.be/ybln-oeZ10g 
+
+### Project Rain: https://www.youtube.com/watch?v=n6aMEEaj5v8&feature=youtu.be
 
 Many of the art assets used in the game came from purchased asset packs, as well as things like post processig affects and volumetric lighting. In
 the gameplay and implementation of the systems and effects have been done almost entirely by me, including some additional tools such as one to help
